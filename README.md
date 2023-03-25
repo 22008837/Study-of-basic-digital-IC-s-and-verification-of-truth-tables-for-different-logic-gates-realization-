@@ -59,6 +59,7 @@ If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
 Program:
 /*
+```
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by: C.Prabha 
 RegisterNumber:  212222110032
@@ -73,27 +74,22 @@ nand (g,a,b);
 nor (h,a,b);
 xnor (i,a,b);
 endmodule
+```
 */
+
 Logic symbol & Truthtable
 Logic symbol:
-
-image
+![Ex 1 DE logic](https://user-images.githubusercontent.com/120194155/227722285-33df74a3-6c26-4b1c-916d-ff8e021abd1b.png)
 
 Truth table:
-
-image
+![Ex 1 DE truth table](https://user-images.githubusercontent.com/120194155/227722166-11fd6a51-2829-4285-b248-2fc6e424b768.png)
 
 RTL realization:
 
-Screenshot 2023-03-18 195937
+![Screenshot_20230323_023846](https://user-images.githubusercontent.com/120194155/227722204-9e7df6aa-b8d5-4033-9596-51726e1145c3.png)
 
 Wave form:
-
-Screenshot 2023-03-20 185022
-
-RTL realization
-Output:
-RTL
+![Ex 1 DE waveform](https://user-images.githubusercontent.com/120194155/227722153-4df3eb33-808a-4eef-80c1-734bfb080e84.png)
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
