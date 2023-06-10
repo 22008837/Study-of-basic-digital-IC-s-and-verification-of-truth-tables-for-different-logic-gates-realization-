@@ -63,16 +63,17 @@ Program:
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by: C.Prabha 
 RegisterNumber:  212222110032
-module EXPERIMENTA (a,b,c,d,e,f,g,h,i);
+
+module exp1(a,b,y1,y2,y3,y4,y5,y6,y7);
 input a,b;
-output c,d,e,f,g,h,i;
-and (c,a,b);
-or (d,a,b);
-not (e,a);
-xor (f,a,b);
-nand (g,a,b);
-nor (h,a,b);
-xnor (i,a,b);
+output y1,y2,y3,y4,y5,y6,y7;
+and (y1,a,b);
+or (y2,a,b);
+not (y3,a);
+xor (y4,a,b);
+nand (y5,a,b);
+nor (y6,a,b);
+xnor(y7,a,b);
 endmodule
 ```
 */
