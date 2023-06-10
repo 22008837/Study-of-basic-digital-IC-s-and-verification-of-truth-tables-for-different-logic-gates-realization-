@@ -87,7 +87,8 @@ Truth table:
 
 RTL realization:
 
-![Screenshot_20230323_023846](https://user-images.githubusercontent.com/120194155/227722204-9e7df6aa-b8d5-4033-9596-51726e1145c3.png)
+![image](https://github.com/22008837/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/120194155/2bd53004-aac8-4c95-9bec-c104243c4da8)
+
 
 Wave form:
 ![Ex 1 DE waveform](https://user-images.githubusercontent.com/120194155/227722153-4df3eb33-808a-4eef-80c1-734bfb080e84.png)
